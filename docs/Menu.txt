@@ -1,0 +1,7 @@
+Burger  -  50
+Fries   -  45
+Drinks  -  30
+Pizza   -  90
+HotDogs -  60
+Nachos  -  70
+HakkaNoodle80	

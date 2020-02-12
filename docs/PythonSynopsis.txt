@@ -1,0 +1,25 @@
+Introduction
+
+This is 
+
+Description (Module Wise)
+
+1   - LoginPage
+2   - HomePage (Bill, Ingredients, Employees)
+2.1 - Bill - Calculate the bill GST 18%
+2.2 - Ingredients - View/Modify the Ingredients List
+2.3 - Employees - View/Modify Emp details
+
+Modules to be used
+
+1   - Tkinter
+2   - Tkinter
+2.1 - Tkinter, Sqlite3,Random,Time
+2.2 - Tkinter, Sqlite3
+2.3 - Tkinter, Sqlite3
+
+Work Distribution
+
+
+
+Gantt Chart
