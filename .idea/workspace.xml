@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72c913d7-3d13-408b-a247-ecd507229b04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -216,9 +214,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="74" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1576426909003" />
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1576426246112">
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1581497903741">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1576426246112" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1581497903741" />
   </component>
 </project>
